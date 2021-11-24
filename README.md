@@ -7,7 +7,7 @@
 
 > El repositorio consiste en una consultadora de Criptomonedas, permitiendo ver el valor de las criptos en relacion a la moneda disponible elejida.</br>
 
-## 🦁 Versión de React
+## 🦁 Versión de Javascript
 
 ```
 Javascript: ES12
