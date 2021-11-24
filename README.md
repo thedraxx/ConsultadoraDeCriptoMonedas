@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> El repositorio consiste en una consultadora de Criptomonedas, permitiendo ver el valor de las criptos en relacion a la moneda disponible elejida.</br>
+> El repositorio consiste en una consultadora de Criptomonedas, permitiendo ver el valor de las criptos en relacion a la moneda disponible elejida usando la API de cryptocompare</br>
 
 ## 🦁 Versión de Javascript
 
