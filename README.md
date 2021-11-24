@@ -32,7 +32,7 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 ## ⚙️ Uso
 
 1. Abrir la web
-2. Colocar en los campos el artista y la cancion a buscar.
+2. Colocar la cripto y la moneda a la cual quieres ver el valor
 3. Esperar los resultados
 
 ## 🤝 Contribuciones y Agradecimientos
